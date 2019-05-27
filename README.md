@@ -2,10 +2,6 @@
 Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.
 
 
-# [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-
-Your [contributions](contributing.md) are always welcome !
-
 ## Tools
 
 | Repository                                                                              | Description                                                                                                                                                                                                                   |
