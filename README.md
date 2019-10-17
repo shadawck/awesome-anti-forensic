@@ -1,4 +1,6 @@
 # [Awesome-anti-forensic](https://github.com/remiflavien1/Awesome-anti-forensic)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/remiflavien1/awesome-anti-forensic)
+
 Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.
 
 
