@@ -122,9 +122,10 @@ Tools and packages that are used for countering forensic activities, including e
 | [Xplico](https://github.com/xplico/xplico)                                                           | Internet Traffic Decoder. Network Forensic Analysis Tool (NFAT).                                                                                                                                                              |
 | [ZipDump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/zipdump.py)                | ZIP dump utility.                                                                                                                                                                                                             |
 
+## Contributing
+Thanks for visiting! If you have suggestions, then open an issue, or submit a PR, see: CONTRIBUTING.md. Contributions are welcome, and much appreciated !
+
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law,  [remiflavien1](https://github.com/remiflavien1) has waived all copyright and
-related or neighboring rights to this work.
+[![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
+Licensed under Creative Commons, CC BY 4.0, © [HUGUET Rémi](https://github.com/remiflavien1) 2020
