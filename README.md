@@ -9,8 +9,8 @@ Tools and packages that are used for countering forensic activities, including e
 
 ## Tools
 
-| Repository | Description |  |
-| ---------- | ----------- ||
+| Repository                                                                                           | Description                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Afflib](https://github.com/sshock/AFFLIBv3)                                                         | An extensible open format for the storage of disk images and related forensic information.                                                                                                                                    |
 | [Air-Imager](https://sourceforge.net/projects/air-imager/)                                           | A GUI front-end to dd/dc3dd designed for easily creating forensic images.                                                                                                                                                     |
 | [Auditpol](https://docs.microsoft.com/en-gb/windows-server/administration/windows-commands/auditpol) | Displays information about and performs functions to manipulate audit policies in Windows                                                                                                                                     |
