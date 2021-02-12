@@ -131,7 +131,7 @@ Tools and packages that are used for countering forensic activities, including e
 | [ZipDump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/zipdump.py)                | ZIP dump utility.                                                                                                                                                                                                             |
 
 ## Contributing
-Thanks for visiting! If you have suggestions, then open an issue, or submit a PR, see: CONTRIBUTING.md. Contributions are welcome, and much appreciated !
+Thanks for visiting! If you have suggestions, then open an issue, or submit a PR. Contributions are welcome, and much appreciated !
 
 ## License
 
