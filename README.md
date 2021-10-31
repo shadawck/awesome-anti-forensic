@@ -1,11 +1,10 @@
-# [Awesome-anti-forensic](https://github.com/remiflavien1/Awesome-anti-forensic)
+# [Awesome-anti-forensic](https://github.com/shadawck/Awesome-anti-forensic)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff?&style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
 Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.
-
 
 ## Tools
 
@@ -78,6 +77,8 @@ Tools and packages that are used for countering forensic activities, including e
 | [Networkminer](https://www.netresec.com/?page=Networkminer)                                          | A Network Forensic Analysis Tool for advanced Network Traffic Analysis, sniffer and packet analyzer.                                                                                                                            |
 | [Nfex](https://github.com/deadbits/nfex)                                                             | A tool for extracting files from the network in real-time or post-capture from an offline tcpdump pcap savefile.                                                                                                                |
 | [Ntdsxtract](https://github.com/csababarta/ntdsxtract)                                               | Active Directory forensic framework.                                                                                                                                                                                            |
+| [nTimetools](https://github.com/limbenjamin/nTimetools)                                              | Timestomper and Timestamp checker with nanosecond accuracy for NTFS volumes                                                                                                                                                     |
+| [NTFS-3G](https://github.com/tuxera/ntfs-3g)                                                         | NTFS-3G Safe Read/Write NTFS Driver                                                                                                                                                                                             |
 | [Papa Shango](https://github.com/droberson/papa-shango)                                              | Inject code into running processes with ptrace().                                                                                                                                                                               |
 | [Pasco](http://b2b-download.mcafee.com/products/tools/foundstone/pasco.zip)                          | Examines the contents of Internet Explorer's cache files for forensic purposes.                                                                                                                                                 |
 | [PcapXray](https://github.com/Srinivas11789/PcapXray)                                                | Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction.                                                     |
@@ -100,6 +101,7 @@ Tools and packages that are used for countering forensic activities, including e
 | [Saruman](https://github.com/elfmaster/saruman)                                                      | ELF anti-forensics exec, for injecting full dynamic executables into process image (With thread injection)                                                                                                                      |
 | [Scalpel](https://github.com/sleuthkit/scalpel)                                                      | An open source data carving tool.                                                                                                                                                                                               |
 | [Scrounge-Ntfs](https://github.com/lcorbasson/scrounge-ntfs)                                         | Data recovery program for NTFS file systems                                                                                                                                                                                     |
+| [SetMace](https://github.com/jschicht/SetMace)                                                       | Manipulate timestamps on NTFS                                                                                                                                                                                                   |
 | [Sherlocked](https://github.com/elfmaster/sherlocked)                                                | Universal script packer-- transforms any type of script into a protected ELF executable, encrypted with anti-debugging                                                                                                          |
 | [Shred](https://doc.ubuntu-fr.org/shred)                                                             | Overwrite a file to hide its contents, and optionally delete it                                                                                                                                                                 |
 | [Silk-guardian](https://github.com/NateBrune/silk-guardian)                                          | An anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.                                                                            |
@@ -132,9 +134,10 @@ Tools and packages that are used for countering forensic activities, including e
 | [ZipDump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/zipdump.py)                | ZIP dump utility.                                                                                                                                                                                                               |
 
 ## Contributing
-Thanks for visiting! If you have suggestions, then open an issue, or submit a PR. Contributions are welcome, and much appreciated !
+
+Thanks for visiting ! If you have suggestions, then open an issue, or submit a PR. Contributions are welcome, and much appreciated !
 
 ## License
 
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
-Licensed under Creative Commons, CC BY 4.0, © [HUGUET Rémi](https://github.com/remiflavien1) 2021
+Licensed under Creative Commons, CC BY 4.0, © [HUGUET Rémi @shadawck](https://github.com/shadawck) 2021
