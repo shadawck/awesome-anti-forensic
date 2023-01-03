@@ -1,0 +1,6 @@
+[book]
+authors = ["shadawck"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Awesome anti-forensic"
