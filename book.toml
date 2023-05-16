@@ -3,4 +3,13 @@ authors = ["shadawck"]
 language = "en"
 multilingual = false
 src = "src"
+descriptions = "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information."
 title = "Awesome anti-forensic"
+
+[build]
+build-dir = "docs"
+
+[output.html]
+site-url = "/awesome-anti-forensic/"
+git-repository-url = "https://github.com/shadawck/awesome-anti-forensic"
+preferred-dark-theme = "navy"

@@ -3,7 +3,8 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Awesome anti-forensic - Awesome anti-forensic</title>
+        <title>Awesome anti-forensic</title>
+        <meta name="robots" content="noindex" />
 
 
         <!-- Custom HTML head -->
@@ -81,7 +82,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html" class="active">Awesome anti-forensic</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html">Awesome anti-forensic</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -156,7 +157,7 @@
 <li><a href="https://github.com/sshock/AFFLIBv3">Afflib</a> : An extensible open format for the storage of disk images and related forensic.information.</li>
 <li><a href="https://sourceforge.net/projects/air-imager/">Air-Imager</a> : A GUI front-end to dd/dc3dd designed for easily creating forensic images.</li>
 <li><a href="https://github.com/intel/bmap-tools">Bmap-tools</a> : Tool for copying largely sparse files using information from a block map file.</li>
-<li><a href="">dd</a> : The dd command allows you to copy all or part of a disk.
+<li><a href="../">dd</a> : The dd command allows you to copy all or part of a disk.
 <ul>
 <li><a href="https://doc.ubuntu-fr.org/dc3dd">Dc3dd</a> : A patched version of dd that includes a number of features useful for computer forensics.</li>
 <li><a href="https://doc.ubuntu-fr.org/dcfldd">Dcfldd</a> : DCFL (DoD Computer Forensics Lab), a dd replacement with hashing.</li>
@@ -409,6 +410,11 @@ Licensed under Creative Commons, CC BY 4.0, © <a href="https://github.com/shada
 
         <!-- Custom JS scripts -->
 
+        <script>
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
 
     </body>
 </html>
