@@ -100,7 +100,7 @@ Tools and packages that are used for countering forensic activities, including e
 - [DBAN](https://sourceforge.net/projects/dban/) : Darik's Boot and Nuke ("DBAN") is a self-contained boot image that securely wipes the hard disks of most computers. DBAN is appropriate for bulk or emergency data destruction.
 - [delete-self-poc](https://github.com/LloydLabs/delete-self-poc) : A way to delete a locked file, or current running executable, on disk.
 - [Forensia](https://github.com/PaulNorman01/Forensia) : Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exploitation Phase.
-- [Hdpram](https://doc.ubuntu-fr.org/hdparm) : get/set hard disk parameters.
+- [Hdparm](https://doc.ubuntu-fr.org/hdparm) : get/set hard disk parameters.
 - [LogKiller](https://github.com/Rizer0/Log-killer) : Clear all your logs in linux/windows servers.
 - [Meterpreter > clearev](https://github.com/rapid7/metasploit-payloads) : The meterpreter clearev command will clear the Application, System, and Security logs on a Windows system.
 - [NTFS-3G](https://github.com/tuxera/ntfs-3g) : NTFS-3G Safe Read/Write NTFS Driver.
