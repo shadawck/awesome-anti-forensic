@@ -168,6 +168,7 @@ on the DMCrypt kernel module.
 - [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit) : This project is a Docker image useful for solving Steganography challenges as those you can find at CTF platforms.
 - [StegoVeritas](https://github.com/bannsec/stegoVeritas) : Yet another Stego Tool.
 - [tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) : Pack up to 3MB of data into a tweetable PNG polyglot file.
+- [HR Steganography](https://github.com/YoeriNijs/hr_steganography) : Tool for hiding secret messages in Garmin activity files
 
 ### Malware / AV
 
