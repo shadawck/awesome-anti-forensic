@@ -10,6 +10,7 @@ Tools and packages that are used for countering forensic activities, including e
 
 ### System/Digital Image
 
+- [AAD-50](https://github.com/yonasabeselom/aad50) : NVMe sanitization verification framework for Linux. Closes a 15-year gap in nvme-cli by polling Log Page 0x81 to confirm hardware completion of sanitize cycles. Merged into linux-nvme/nvme-cli master (PR #3438). NIST SP 800-88 aligned.
 - [Afflib](https://github.com/sshock/AFFLIBv3) : An extensible open format for the storage of disk images and related forensic.information.
 - [Air-Imager](https://sourceforge.net/projects/air-imager/) : A GUI front-end to dd/dc3dd designed for easily creating forensic images.
 - [Bmap-tools](https://github.com/intel/bmap-tools) : Tool for copying largely sparse files using information from a block map file.
@@ -106,6 +107,7 @@ Tools and packages that are used for countering forensic activities, including e
 - [NTFS-3G](https://github.com/tuxera/ntfs-3g) : NTFS-3G Safe Read/Write NTFS Driver.
 - [Nuke My LUKS](https://github.com/juliocesarfort/nukemyluks) : Network panic button designed to overwrite with random data the LUKS header of computers in a LAN.
 - [Permanent-Eraser](https://github.com/edenwaith/Permanent-Eraser) : Secure file erasing utility for macOS.
+- [REDACT](https://github.com/yonasabeselom/redact) : Advanced forensic privacy eraser for Windows. Destroys 250+ system artifacts including AmCache, BAM, ShimCache, NTFS $UsnJrnl/$LogFile, Windows Recall, Shell Bags, SRUM, and a 10-browser matrix with 1–35 pass cryptographic wipe modes.
 - [Shred](https://doc.ubuntu-fr.org/shred) : Overwrite a file to hide its contents, and optionally delete it.
 - [Silk-guardian](https://github.com/NateBrune/silk-guardian) : An anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.
 - [Srm](https://sourceforge.net/projects/srm/) : Srm is a command-line compatible rm which overwrites file contents before unlinking.
