@@ -80,6 +80,7 @@ Tools and packages that are used for countering forensic activities, including e
 
 - [Exiftool](https://github.com/qazbnm456/awesome-web-security) : Reader and rewriter of EXIF informations that supports raw files.
 - [Exiv2](https://github.com/Exiv2/exiv2) : Exif, Iptc and XMP metadata manipulation library and tools.
+- [MetadataRemover.ai](https://metadataremover.ai/) : Open-source browser toolkit to inspect and remove supported metadata from images, PDFs, documents, video, and audio without uploading files.
 - [nTimetools](https://github.com/limbenjamin/nTimetools) : Timestomper and Timestamp checker with nanosecond accuracy for NTFS volumes.
 - [Scalpel](https://github.com/sleuthkit/scalpel) : An open source data carving tool.
 - [SetMace](https://github.com/jschicht/SetMace) : Manipulate timestamps on NTFS.
