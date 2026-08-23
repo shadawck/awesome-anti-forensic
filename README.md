@@ -163,6 +163,7 @@ on the DMCrypt kernel module.
 - [StegFS](https://github.com/albinoloverats/stegfs) : A FUSE based steganographic file system.
 - [Steghide](http://steghide.sourceforge.net/) : Steganography program that is able to hide data in various kinds of image- and audio-files.
 - [Stegify](https://github.com/DimitarPetrov/stegify) : Go tool for LSB steganography, capable of hiding any file within an image.
+- [STEGO·STUDIO](https://github.com/rickschaves/stegostudio) : Free, open-source, client-side image steganography and forensics tool for hiding, analyzing, and recovering hidden data, including support for several third-party steganography formats.
 - [Stego](https://github.com/ajmwagar/stego) : stego is a steganographic swiss army knife.
   - [StegoGAN](https://github.com/DAI-Lab/SteganoGAN) : A tool for creating steganographic images using adversarial training.
 - [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit) : This project is a Docker image useful for solving Steganography challenges as those you can find at CTF platforms.
