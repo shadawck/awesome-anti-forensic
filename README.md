@@ -193,6 +193,7 @@ on the DMCrypt kernel module.
 
 - [Lockup](https://github.com/levlesec/lockup) : A proof-of-concept Android application to detect and defeat some of the Cellebrite UFED forensic toolkit extraction techniques.
 - [Ripple](https://github.com/guardianproject/ripple) : A "panic button" app for triggering a "ripple effect" across apps that are set up to respond to panic events.
+- [CleanSlate](https://github.com/devshield-tech/botox-android) : Remotely wipe your Android device if it is lost or stolen, before a thief can access your data.
 
 ## Contributing
 
